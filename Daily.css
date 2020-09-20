@@ -1,0 +1,25 @@
+*{
+	float: center;
+	background: antiquewhite;
+}
+
+button {
+	background: pink;
+	width: 70px;
+	height: 40px;
+	border-radius: 8px;
+	
+}
+
+input[type=text] {
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  height: 80px
+	  c
+}
+
+
+
+
