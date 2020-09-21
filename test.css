@@ -1,0 +1,112 @@
+
+
+button {
+	background: pink;
+	width: 70px;
+	height: 40px;
+	border-radius: 8px;
+	
+}
+
+#input-desc{
+  width: 50%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  height: 80px
+	  c
+}
+
+body{
+	margin-left: 150px;
+	margin-top: 40px;
+}
+
+
+h1{
+	text-align: left;
+	font-size: 50px 
+}
+
+
+button {
+	color:white;
+  background-color: darkred;
+  border-radius: 18px;
+  height: 40px;
+  width: 100px;
+  outline: none;
+	
+}
+
+#input-task {
+  float: center;
+  display: block;
+  height: 20px;
+  width: 15%;
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 2em 1em 4em / 0.5em 3em;
+}
+#input-desc{
+	 float: center;
+  display: block;
+  height: 70px;
+  width: 80%;
+  border: 2px solid red;
+  padding: 10px;
+  border-radius: 2em 1em 4em / 0.5em 3em;
+}
+
+
+label {
+  float: center;
+/*    display: block;*/
+    margin-bottom: 20px;
+}
+
+
+
+body{
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Paper-notes.svg/768px-Paper-notes.svg.png');
+  background-repeat:no-repeat;
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+#list{
+
+	  float: left;
+    color: black;
+  	border: 3px dotted gray;
+    margin:7px;
+    padding:7px;
+	font-size: 18px;
+	width: 80%;
+}
+
+
+.taskc{
+	font-size: 25px;
+}
+
+
+.doneclass {
+		color:white;
+  background-color: darkred;
+  border-radius: 18px;
+  height: 40px;
+  width: 70px;
+  outline: none;
+	
+}
+
+.donetask{
+	text-decoration: line-through;
+	color: red
+}
+
+
+
+
+

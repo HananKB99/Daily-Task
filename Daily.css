@@ -127,7 +127,7 @@ body{
 }
 */
 
-#done {
+.doneclass {
 		color:white;
   background-color: darkred;
   border-radius: 18px;
@@ -137,6 +137,10 @@ body{
 	
 }
 
+.donetask{
+	text-decoration: line-through;
+	color: red
+}
 
 
 
